@@ -130,13 +130,13 @@ Designed and developed an off-grid solar inverter featuring:
 ## 🤝 Let's Connect
 
 💼 LinkedIn:
-https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+https://www.linkedin.com/in/dnyll67
 
 📧 Email:
-d.niyal.67@gmail.com
+d.niyal.67@gmail.com || arrypo67@gmail.com
 
 🌐 GitHub:
-https://github.com/YOUR-GITHUB-USERNAME
+https://github.com/dnyll
 
 ---
 
