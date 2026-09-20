@@ -27,7 +27,7 @@ CGPA: **3.31/4.00**
 - Studied transformer operation and maintenance.
 - Analyzed power factor correction using capacitor banks.
 
-### Al-Manzoor International
+### Xtreme Engineering Services
 - Performed electrical load calculations.
 - Reviewed Single-Line Diagrams (SLDs).
 - Assisted in installation and commissioning of LV/MV panels.
